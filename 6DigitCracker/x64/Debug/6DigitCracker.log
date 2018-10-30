@@ -1,0 +1,4 @@
+﻿  Main.cpp
+e:\desktop\6digitcracker\6digitcracker\main.cpp(5): warning C4005: 'WINVER': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(236): note: see previous definition of 'WINVER'
+  6DigitCracker.vcxproj -> E:\Desktop\6DigitCracker\x64\Debug\6DigitCracker.exe
